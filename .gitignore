@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
